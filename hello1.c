@@ -5,7 +5,7 @@
 #include <linux/printk.h>
 #include "hello1.h"
 
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Danyil Herasymchuk");
 MODULE_DESCRIPTION("hello1: manages list and exports print_hello");
 MODULE_LICENSE("Dual BSD/GPL");
 
